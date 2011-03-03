@@ -1,0 +1,21 @@
+ Title: CLIProgress
+
+ File: cliprogress.py
+  Provides dirt simple command line progress indicator
+  
+ Version:
+  2010.09.01
+  
+ Copyright:
+  2004-2011 The State News, Inc
+  
+ Author:
+  Mike Joseph <josephm5@msu.edu>
+  
+ License:
+  GNU GPL 2.0 - http://opensource.org/licenses/gpl-2.0.php
+
+ Install:
+
+  $] cd cliprogress
+  $] python setup.py install
